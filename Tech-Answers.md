@@ -32,5 +32,5 @@ I spent approximately 6 hours on the coding assignment.
   "role": "Senior Software Developer - C#.NET",
   "experience": "11 years",
   "skills": ["C#", ".NET Core", "ASP.NET", "SQL", "Azure", "MVC"],
-  "interests": [".NET Ecosystem", "AI", "Cloud Computing", "Clean Code","Software Design and Architecture"]
+  "interests": ["Banking Domain",".NET Ecosystem", "AI", "Cloud Platforms", "Clean Code", "Software Design and Architecture", "Containers"]
 }
