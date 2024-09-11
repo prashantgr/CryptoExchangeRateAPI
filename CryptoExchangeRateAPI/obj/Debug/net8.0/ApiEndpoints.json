@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CryptoExchangeRateAPI.Controllers.CryptoController",
+    "Method": "GetCryptoRates",
+    "RelativePath": "api/Crypto/{cryptoCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cryptoCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
