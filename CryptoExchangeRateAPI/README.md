@@ -5,7 +5,7 @@ This project is a simple API that provides cryptocurrency exchange rates using d
 ## Prerequisites
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or any other IDE that supports .NET 6
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or any other IDE that supports .NET 8
 - [Postman](https://www.postman.com/downloads/) (optional, for testing the API)
 - [Swagger](https://swagger.io/) (for API documentation and testing)
 

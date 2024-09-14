@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35111.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoExchangeRateAPI", "CryptoExchangeRateAPI.csproj", "{E5735028-BF6C-4593-AB18-3B06315F2B7F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{597C66A5-BE8A-4AD5-BDC4-B16821F30E35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoExchangeRateAPI.Tests", "..\CryptoExchangeRateAPI.Tests\CryptoExchangeRateAPI.Tests.csproj", "{2C00487E-0304-4F18-ABF7-191AD16DF633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5735028-BF6C-4593-AB18-3B06315F2B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5735028-BF6C-4593-AB18-3B06315F2B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5735028-BF6C-4593-AB18-3B06315F2B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5735028-BF6C-4593-AB18-3B06315F2B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C00487E-0304-4F18-ABF7-191AD16DF633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C00487E-0304-4F18-ABF7-191AD16DF633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C00487E-0304-4F18-ABF7-191AD16DF633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C00487E-0304-4F18-ABF7-191AD16DF633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C00487E-0304-4F18-ABF7-191AD16DF633} = {597C66A5-BE8A-4AD5-BDC4-B16821F30E35}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E1C822-9E67-43B2-9AD9-912B0E9D04CA}
+	EndGlobalSection
+EndGlobal
